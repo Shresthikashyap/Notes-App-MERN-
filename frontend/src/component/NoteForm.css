@@ -1,0 +1,24 @@
+.note-form {
+  display: flex;
+  align-items: center;
+  padding-left: 20%;
+  padding-right: 20%;
+  margin-bottom: 1rem;
+}
+
+.note-form textarea {
+  flex: 1;
+  padding: .5rem;
+  font-size: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.note-form button {
+  margin-left: 0.5rem;
+  background-color: #19b51eb6;
+  padding: 10px 20px;
+  color: #fff;
+  border-radius: 4px;
+  font-size: 16px;
+}
